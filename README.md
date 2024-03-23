@@ -13,23 +13,4 @@ https://www.linkedin.com/in/felipe-ot%C3%A1vio-de-sousa-homeyer-21172031/
 ####### I have a little knowledge in front-end, in Python, Java and JavaScript languages.
 
 ######## I live in Magé, Rio de Janeiro, Brazil.
-
-
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-
-
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-
-
-          #########  
+ 
